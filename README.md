@@ -1,5 +1,6 @@
 # DW_Redshift-
 Este é um projeto acadêmico que fiz para praticar conceitos de BI e DW!
+
 Olá! Este foi um projeto acadêmico com a finalidade de praticar conceitos sobre BI e Data Warehouse, neste projeto populei o banco de dados postgresSQL e o Redshift na nuvem da AWS, porém dei prioridade de apresentar os dados na nuvem. Vamos a uma breve explicação do Data Warehouse no postgres. No PostgresSQL eu criei dois schemas um para o modelo relacional e outro para o modelo dimensional:
 
 ![image](https://github.com/Miltonmoura011/DW_Redshift-/assets/110420164/c2cb0d58-f578-489c-9e7f-87288cc8cef2)
